@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="125.362" cy="119.482" r="14.948" id="gradient-0">
+      <stop offset="0" style="stop-color: rgb(253, 253, 253);"/>
+      <stop offset="1" style="stop-color: rgba(255, 191, 0, 0);"/>
+    </radialGradient>
+  </defs>
+  <rect width="250" height="250" style=""/>
+  <circle style="stroke-width: 0px; fill: url(#gradient-0);" cx="125.362" cy="119.482" r="14.948"/>
+  <path style="fill: none; stroke: rgb(186, 218, 85);" d="M 125.666 118.735 C 121.666 116.072 167.34 105.406 183.905 125.806 C 200.47 146.206 218.02 248.332 218.02 248.332"/>
+  <path style="fill: none; stroke: rgb(186, 218, 85);" d="M 101.845 136.552 C 97.845 133.889 139.959 91.758 157.541 112.029 C 175.123 132.3 172.664 266.829 172.664 266.829" transform="matrix(1, 0, 0, 1, 24.391628, -17.910899)"/>
+  <path style="fill: none; stroke: rgb(186, 218, 85);" d="M 125.683 118.513 C 121.683 115.85 127.961 54.662 135.889 66.114 C 143.817 77.566 149.653 249.643 149.653 249.643"/>
+  <path style="fill: none; stroke: rgb(186, 218, 85);" d="M 117.721 146.414 C 113.721 143.751 106.487 38.263 96.502 72.258 C 86.517 106.253 89.059 277.154 89.11 276.428" transform="matrix(1, 0, 0, 1, 6.968412, -27.410697)"/>
+  <path style="fill: none; stroke: rgb(186, 218, 85);" d="M 124.964 119.109 C 120.964 116.446 114.662 95.1 85.097 98.768 C 55.532 102.436 52.28 249.61 52.28 249.61"/>
+  <path style="fill: none; stroke: rgb(186, 218, 85);" d="M 131.389 183.565 C 127.389 180.902 108.847 132.682 91.244 137.856 C 73.641 143.03 73.202 313.357 73.202 313.357" transform="matrix(1, 0, 0, 1, -2.128577, -65.015852)"/>
+  <path style="fill: none; stroke: rgb(186, 218, 85);" d="M 138.239 194.586 C 134.239 191.923 141.257 193.863 144.844 211.827 C 148.431 229.791 148.643 322.888 148.643 322.888" transform="matrix(1, 0, 0, 1, -10.201996, -74.583834)"/>
+</svg>
